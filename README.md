@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/9e/5c/77/9e5c77872f818509afc1766a86c9a68b.gif" width="300" />
 </p>
 
-# 👋 Hello, I'm Nghĩa!
+# 👋 Hello, I'm Nguyễn Chí Nghĩa!
 
 🎓 I'm currently studying **Software Engineering** at  
 🎓 **VNUHCM - University of Information Technology (UIT)**  
@@ -63,19 +63,19 @@
 
 ## 🎯 Career Goals
 
-- 🔭 Trở thành một **Fullstack Developer** với nền tảng vững chắc cả backend lẫn frontend  
-- 📱 Phát triển các ứng dụng **mobile đa nền tảng** có tính ứng dụng cao trong đời sống  
-- 🧠 Không ngừng học hỏi công nghệ mới, đặc biệt trong **DevOps, Cloud và AI**  
-- 💼 Tìm kiếm cơ hội **thực tập và làm việc tại các công ty công nghệ uy tín**  
-- 🌍 Góp phần xây dựng cộng đồng lập trình bằng các **dự án mã nguồn mở**
+- 🔭 Become a Fullstack Developer with solid foundations in both backend and frontend**
+- 📱 Build cross-platform mobile applications, web applications with high practicality for real-life usage**
+- 🧠 Constantly explore and learn new technologies, especially in DevOps, Cloud, and AI**  
+- 💼 Seek internship and job opportunities at reputable tech companies**  
+- 🌍 Contribute to the programming community through open-source projects**
 
 ---
 
 ## 📈 GitHub Stats
 
-![Nghia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nghianguyen&show_icons=true&theme=tokyonight)
+![Nghia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dupper15&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nghianguyen&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dupper15&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
