@@ -6,7 +6,7 @@
 
 🎓 I'm currently studying **Software Engineering** at  
 🎓 **VNUHCM - University of Information Technology (UIT)**  
-📆 Cohort: **2022 - 2026**
+📆 Expected graduation: **2022 - 2026**
 
 ---
 
